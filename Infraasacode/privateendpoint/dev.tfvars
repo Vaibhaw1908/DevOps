@@ -1,0 +1,8 @@
+rg_name = "SRS-RG"
+location = "West Europe" 
+vnetlink_name = "vnetlink0103"
+pvtendpoint_name = "pvtendpoint0103"
+dnszone_name = "dnszone1.local"
+storageaccount_id = "/subscriptions/c482f1f4-1b52-4c5b-ab1f-69b154e783af/resourceGroups/SRS-RG/providers/Microsoft.Storage/storageAccounts/stemployee0103"
+subnet_id = "/subscriptions/c482f1f4-1b52-4c5b-ab1f-69b154e783af/resourceGroups/SRS-RG/providers/Microsoft.Network/virtualNetworks/vnet0103/subnets/subnet1"
+vnet_id = "/subscriptions/c482f1f4-1b52-4c5b-ab1f-69b154e783af/resourceGroups/SRS-RG/providers/Microsoft.Network/virtualNetworks/vnet0103"
