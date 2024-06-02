@@ -45,9 +45,11 @@ RESOURCES CREATED:- (FOR SAMPLE CODE OF AZURE RESOURCES REFER TO TERRAFORM REGIS
                    3) Globally peered virtual networks
                    4) On-premises environments that use VPN or Express Route
                    5) Services that are powered by Private Link.
+                   
   PRIVATE LINK:- A private-link resource is the destination target of a specified private endpoint.
 
   DNS ZONE:- DNS zone is a data resource that contains the DNS records for a domain name.
+  
   DNS ZONE VIRTUAL NETWORK LINK:- It enables many types of Azure resources, such as Azure Virtual Machines (VM), to securely communicate with each other, the internet, and on-premises networks.
 
   RESOURCES CREATED:- (FOR SAMPLE CODE OF AZURE RESOURCES REFER TO TERRAFORM REGISTRY "https://registry.terraform.io/")
