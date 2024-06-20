@@ -61,4 +61,16 @@ RESOURCES CREATED:- (FOR SAMPLE CODE OF AZURE RESOURCES REFER TO TERRAFORM REGIS
   6) Create a DNS Zone.
   7) Create a private DNS zone virtual network link.
 
+*VIRTUAL MACHINE:- Cloud-based computing resources that act like virtual computers and provide a secure environment for hosting applications and services. VMs can run on Windows or Linux, and can include CPUs, memory, hard drives, network interfaces, and other devices. 
+
+RESOURCES CREATED:- (FOR SAMPLE CODE OF AZURE RESOURCES REFER TO TERRAFORM REGISTRY "https://registry.terraform.io/")
+1) Create a resource group (or refer to an existing one).
+2) Identify the location at which you want your resources to be deployed. 
+3) Create a NSG
+4) Create a Vnet along with subnets.
+5) Create a NIC.
+6) Create a VM.
+
+
+![pvtendpoint](https://github.com/Vaibhaw1908/DevOps/assets/148346371/56f973da-927a-49b3-98f9-04e9ceb3c8f2)
 
