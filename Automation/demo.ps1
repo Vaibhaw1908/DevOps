@@ -1,0 +1,6 @@
+write-host "My Project "
+write-host "MY PROJECT 2"
+write-host "My project 3"
+write-host "My project 4"
+write-host "this is my first devops program"
+write-host "adding login through feature branch"
